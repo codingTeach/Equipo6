@@ -1,2 +1,2 @@
 # Equipo-6-main
- sdsd
+ Juego finalizado
